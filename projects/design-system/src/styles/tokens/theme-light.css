@@ -1,0 +1,25 @@
+/**
+ * Do not edit directly, this file was auto-generated.
+ */
+
+:root, :root[data-theme='light'] {
+  --kart-color-primary: var(--kart-palette-primary-500);
+  --kart-color-primary-hover: var(--kart-palette-primary-600);
+  --kart-color-primary-active: var(--kart-palette-primary-700);
+  --kart-color-secondary: var(--kart-palette-neutral-900);
+  --kart-color-secondary-hover: var(--kart-palette-neutral-800);
+  --kart-color-success: var(--kart-palette-success-500);
+  --kart-color-warning: var(--kart-palette-warning-500);
+  --kart-color-danger: var(--kart-palette-danger-500);
+  --kart-color-danger-hover: var(--kart-palette-danger-600);
+  --kart-color-info: var(--kart-palette-info-500);
+  --kart-color-background: var(--kart-palette-base-white);
+  --kart-color-surface: var(--kart-palette-neutral-50);
+  --kart-color-border: var(--kart-palette-neutral-200);
+  --kart-color-text: var(--kart-palette-neutral-900);
+  --kart-color-text-muted: var(--kart-palette-neutral-500);
+  --kart-color-text-on-primary: var(--kart-palette-base-white);
+  --kart-color-disabled: var(--kart-palette-neutral-300);
+  --kart-color-disabled-text: var(--kart-palette-neutral-500);
+  --kart-color-focus-ring: var(--kart-palette-primary-400);
+}

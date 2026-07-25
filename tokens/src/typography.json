@@ -1,0 +1,25 @@
+{
+  "font": {
+    "family": {
+      "base": { "value": "Inter, system-ui, sans-serif" },
+      "display": { "value": "Inter, system-ui, sans-serif" }
+    },
+    "size": {
+      "heading-1": { "value": "2.5rem" },
+      "heading-2": { "value": "2rem" },
+      "heading-3": { "value": "1.5rem" },
+      "heading-4": { "value": "1.25rem" },
+      "body": { "value": "1rem" },
+      "caption": { "value": "0.875rem" }
+    },
+    "weight": {
+      "regular": { "value": "400" },
+      "medium": { "value": "500" },
+      "bold": { "value": "700" }
+    }
+  },
+  "line-height": {
+    "body": { "value": "1.5" },
+    "heading": { "value": "1.2" }
+  }
+}
